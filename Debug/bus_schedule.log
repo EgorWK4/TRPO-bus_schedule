@@ -1,0 +1,39 @@
+﻿  AccountFunctions.cpp
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AccountFunctions.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AccountFunctions.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AccountFunctions.cpp(61,9): warning C4018: <: несоответствие типов со знаком и без знака
+  AdminFunctions.cpp
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AccountFunctions.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AdminFunctions.cpp(86,24): warning C4018: <: несоответствие типов со знаком и без знака
+  BusFunctions.cpp
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AdminFunctions.cpp(163,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\BusFunctions.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\BusFunctions.cpp(141,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\BusFunctions.cpp(165,20): warning C4018: <: несоответствие типов со знаком и без знака
+  FileFunctions.cpp
+  Individual_Quest.cpp
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\BusFunctions.cpp(167,9): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(41,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(60,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(82,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(108,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(133,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(158,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(161,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(227,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  UserFunctions.cpp
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Main.cpp(46,18): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\UserFunctions.cpp(68,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(172): warning C4715: sortDeparture: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(143): warning C4715: sortArrival: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\Individual_Quest.cpp(118): warning C4715: sortName: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\FileFunctions.cpp(46): warning C4715: createFile: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\FileFunctions.cpp(94): warning C4715: deleteFile: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\BusFunctions.cpp(135): warning C4715: editBus: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\BusFunctions.cpp(160): warning C4715: deleteBus: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AccountFunctions.cpp(103): warning C4715: deleteAccount: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\bus_schedule\bus_schedule\AccountFunctions.cpp(146): warning C4715: editAccounts: значение возвращается не при всех путях выполнения
+  bus_schedule.vcxproj -> C:\Users\Admin\source\repos\bus_schedule\Debug\bus_schedule.exe
